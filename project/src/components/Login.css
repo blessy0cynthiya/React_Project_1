@@ -1,0 +1,69 @@
+.Container{
+  background-image: url("C:\Users\Prabha\Desktop\Project_1\HomeTechHub\project\src\components\wash.jpg");
+  background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: cover;
+}
+  
+  .login {
+    width: 360px;
+    padding: 8% 0 0;
+    margin: auto;
+    font-family: 'Comfortaa', cursive;
+    border-radius: 50px;
+  }
+  
+  .form {
+    position: relative;
+    z-index: 1;
+    background: black;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    border-radius: 50px;
+    background: rgb(160, 153, 153);
+    opacity: 0.9;
+    box-shadow:  -11px 11px 22px #bebebe, 11px -11px 22px #ffffff;
+  }
+  .p{
+    font-size: large;
+  }
+  .form input {
+    outline: 0;
+    background: Black;
+    color:white;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: 'Comfortaa', cursive;
+  }
+  
+  h4{
+    color:white;
+  }
+  
+  .form button {
+    font-family: 'Comfortaa', cursive;
+    text-transform: uppercase;
+    outline: 0;
+    background: black;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }
+  
+  .form button:active {
+    background: white;
+  }

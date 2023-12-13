@@ -1,0 +1,51 @@
+.Container{
+  background-image: url("C:\Users\Prabha\Desktop\Project_1\HomeTechHub\project\src\components\wash.jpg");
+  background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: cover;
+}
+input
+{
+outline: 0;
+  background: rgb(19, 16, 16);
+  color:white;
+  width: 100%;
+  border: 0;
+  border-radius: 5px;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-family: 'Comfortaa', cursive;
+}
+button {
+  cursor: pointer;
+  background-color: rgb(235, 193, 130);
+  padding: 5px 20px;
+  border-radius: 4px;
+  font-family: 'Comfortaa', cursive;
+  text-transform: uppercase;
+  outline: 0;
+  background: black;
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 15px;
+  color: white;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+
+}
+tr{
+  color: black;
+  font-size: 14px;
+}
+p{
+    color: white;
+    font-size: 14px;
+     font-family: 'Comfortaa', cursive
+}
+h4{
+  color:black;
+}
